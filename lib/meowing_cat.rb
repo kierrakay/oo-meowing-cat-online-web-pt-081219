@@ -1,5 +1,7 @@
 class Cat 
-  
+ 
+  def maru=(cat_name)
+    @cat = dog_name 
   
   
   
