@@ -11,4 +11,4 @@ def meow
   @cat
   puts "meow!"
 end
-
+end
