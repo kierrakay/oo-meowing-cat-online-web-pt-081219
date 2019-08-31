@@ -3,7 +3,7 @@ class Cat
  end
  
  def name= cats_name 
-cats_name
+@cats_name = cats_name
 end 
 
 def meow
